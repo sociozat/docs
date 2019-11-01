@@ -3,7 +3,7 @@ name: Installation
 ---
 
 # Installation
-this project uses revel. so you also need to install [revel cmd](https://github.com/revel/cmd)
+This project uses revel. so you also need to install [revel cmd](https://github.com/revel/cmd)
 
 you need go v1.11+
 also `dep` package manager

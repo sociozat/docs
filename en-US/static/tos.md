@@ -2,4 +2,4 @@
 name: Terms of Use
 ---
 
-### Under Constructions
+### Under Construction
