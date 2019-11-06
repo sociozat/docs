@@ -10,8 +10,8 @@ also `dep` package manager
 
 ### Using Docker Compose
 ``` 
-git clone https://github.com/bencagri/sozluk
-cd sozluk
+git clone https://github.com/sociozat/sociozat
+cd sociozat
 cp conf/app.conf.dist conf/app.conf
 dep ensure
 docker-compose up
@@ -20,8 +20,8 @@ point your browser to `127.0.0.1:9000`
 
 #### For Manual Installation
 ```
-git clone https://github.com/bencagri/sozluk
-cd sozluk
+git clone https://github.com/sociozat/sociozat
+cd sociozat
 cp conf/app.conf.dist conf/app.conf
 dep ensure
 revel run
